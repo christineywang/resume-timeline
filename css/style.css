@@ -186,6 +186,7 @@ hr {
 /* About Section */
 #about {
 	padding: 100px 0;
+	background: url(../img/robson-hatsukami-morgan-280190.jpg) no-repeat center top;
 	background: #f6f6f6;
 }
 #about .about-text {
