@@ -191,8 +191,8 @@ hr {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/robson-hatsukami-morgan-280190.jpg) no-repeat center top;
-	background: #f6f6f6;
+	background: url(../img/palm_tree.jpg) no-repeat center top;
+	/* background: #f6f6f6; */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
