@@ -188,6 +188,10 @@ hr {
 	padding: 100px 0;
 	background: url(../img/robson-hatsukami-morgan-280190.jpg) no-repeat center top;
 	background: #f6f6f6;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
 }
 #about .about-text {
 	margin-left: 10px;
