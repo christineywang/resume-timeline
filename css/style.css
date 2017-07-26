@@ -89,7 +89,7 @@ hr {
 }
 .navbar-custom {
 	margin-bottom: 0;
-	background-color: #121d1f;
+	background-color: #ffffff;
 	border-radius: 0px;
 	padding: 10px 0;
 }
@@ -108,7 +108,7 @@ hr {
 	outline: 0;
 }
 .navbar-custom a {
-	color: #f4f5f6;
+	color: #A9A9A9;
 }
 .navbar-custom .nav li a {
 	text-transform: uppercase;
@@ -175,10 +175,15 @@ hr {
 	color: #fff;
 	background: url(../img/christine_title_crop.jpg) no-repeat center top;
 	background-color: #7bc3d1;
+	opacity: .7;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+}
+
+a.page-scroll {
+	color: #A9A9A9;
 }
 .section-title.center {
 	padding: 25px 0 45px 0;
@@ -192,6 +197,7 @@ hr {
 	text-align: center;
 	color: #fff;
 	background: url(../img/palm_tree.jpg) no-repeat center top;
+	opacity: .7;
 	/* background: #f6f6f6; */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
