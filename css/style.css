@@ -196,9 +196,9 @@ a.page-scroll {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/palm_tree.jpg) no-repeat center top;
-	opacity: .7;
-	/* background: #f6f6f6; */
+	/* background: url(../img/palm_tree.jpg) no-repeat center top; */
+	/* opacity: .7; */
+	background: #f6f6f6;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
