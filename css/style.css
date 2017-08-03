@@ -428,7 +428,7 @@ ol.type li a:hover {
 /* Resume Section */
 #resume {
 	padding: 100px 0;
-	background: #f6f6f6;
+	background: white;
 }
 .timeline {
 	position: relative;
@@ -486,8 +486,13 @@ ol.type li a:hover {
 	border: 1px solid #eee;
 	border-radius: 100%;
 	text-align: center;
-	background: #fff;
+	background: #7bc3d1;
 }
+
+.timeline>li .timeline-image.timeline-image2 {
+	background: #f6f6f6 !important;
+	}
+
 .timeline>li .timeline-image h4 {
 	margin-top: 20px;
 	font-size: 14px;
@@ -524,7 +529,7 @@ ol.type li a:hover {
 .timeline .timeline-heading h4.subheading {
 	text-transform: none;
 	color: #629ca7;
-	font-size: 20px;
+	font-size: 18px;
 }
 .timeline .timeline-body>p, .timeline .timeline-body>ul {
 	margin-bottom: 0;
