@@ -6,6 +6,11 @@ body, html {
 	width: 100% !important;
 	height: 100% !important;
 }
+
+body {
+	font-size: 16px !important;
+}
+
 h1 {
 	font-weight: 700;
 }
@@ -15,7 +20,7 @@ h1 strong {
 h2 {
 	line-height: 20px;
 	margin: 0;
-	color: ##7a7a7a;
+	color: #7a7a7a;
 	font-weight: 400;
 	margin-bottom: 30px;
 	font-size: 34px;
@@ -89,7 +94,7 @@ hr {
 }
 .navbar-custom {
 	margin-bottom: 0;
-	background-color: #7BC3D4;
+	background-color: #f6f6f6;
 	border-radius: 0px;
 	padding: 10px 0;
 }
@@ -195,7 +200,7 @@ a.page-scroll {
 	height: auto;
 	padding: 100px 0;
 	text-align: center;
-	color: #7a7a7a;
+	color: black;
 	/* background: url(../img/palm_tree.jpg) no-repeat center top; */
 	/* opacity: .7; */
 	background: #white;
@@ -755,4 +760,8 @@ header .intro-text {
 .timeline>li.timeline-inverted>.timeline-panel {
 	padding: 10px 100px 20px 20px;
 }
+}
+
+.new-font {
+  font-family: 'Montserrat', sans-serif;
 }
