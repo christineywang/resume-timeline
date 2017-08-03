@@ -1,5 +1,5 @@
 body, html {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #656c6d;
@@ -15,7 +15,7 @@ h1 strong {
 h2 {
 	line-height: 20px;
 	margin: 0;
-	color: #121d1f;
+	color: ##7a7a7a;
 	font-weight: 400;
 	margin-bottom: 30px;
 	font-size: 34px;
@@ -89,7 +89,7 @@ hr {
 }
 .navbar-custom {
 	margin-bottom: 0;
-	background-color: #ffffff;
+	background-color: #7BC3D4;
 	border-radius: 0px;
 	padding: 10px 0;
 }
@@ -113,9 +113,9 @@ hr {
 .navbar-custom .nav li a {
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	-webkit-transition: background .3s ease-in-out;
-	-moz-transition: background .3s ease-in-out;
-	transition: background .3s ease-in-out;
+	-webkit-transition: background .1.5s ease-in-out;
+	-moz-transition: background .1.5s ease-in-out;
+	transition: background .1.5s ease-in-out;
 }
 .navbar-custom .nav li a:hover {
 	outline: 0;
@@ -147,14 +147,14 @@ hr {
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
 	color: #fff;
-	background-color: #121d1f;
-	border-color: #121d1f;
+	background-color: #7bc3d1;
+	border-color: #7bc3d1;
 }
 .btn-primary {
 	color: #fff;
-	background-color: #121d1f;
+	background-color: ##7bc3d1;
 	padding: 10px 20px;
-	border-color: #121d1f;
+	border-color: ##7bc3d1;
 	border-radius: 0;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active {
@@ -172,10 +172,10 @@ hr {
 	height: auto;
 	padding: 100px 0;
 	text-align: center;
-	color: #fff;
+	color: #7B68EE !important;
 	background: url(../img/christine_title_crop.jpg) no-repeat center top;
 	background-color: #7bc3d1;
-	opacity: .7;
+	/* opacity: .9; */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -195,10 +195,10 @@ a.page-scroll {
 	height: auto;
 	padding: 100px 0;
 	text-align: center;
-	color: #fff;
+	color: #7a7a7a;
 	/* background: url(../img/palm_tree.jpg) no-repeat center top; */
 	/* opacity: .7; */
-	background: #f6f6f6;
+	background: #white;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
