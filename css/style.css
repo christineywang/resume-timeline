@@ -177,10 +177,10 @@ hr {
 	height: auto;
 	padding: 100px 0;
 	text-align: center;
-	color: #7B68EE !important;
-	background: url(../img/christine_title_crop.jpg) no-repeat center top;
-	background-color: #7bc3d1;
-	/* opacity: .9; */
+	color: white !important;
+	background: url(../img/splash3.png) no-repeat center top;
+	background-color: white;
+	opacity: .9;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
