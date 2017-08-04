@@ -26,7 +26,7 @@ h2 {
 	font-size: 34px;
 }
 h3, h4 {
-	color: #121d1f;
+	/* color: #121d1f; */
 	font-size: 20px;
 	font-weight: 600;
 }
@@ -773,4 +773,12 @@ header .intro-text {
 
 .timeline-body.new-font.new-color {
 	color: black;
+}
+
+.light-color {
+	color:#fff;
+}
+
+.new-grey {
+	color: #A9A9A9;
 }
