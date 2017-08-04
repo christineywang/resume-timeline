@@ -484,10 +484,15 @@ ol.type li a:hover {
 	width: 70px;
 	height: 70px;
 	margin-left: 0;
-	border: 1px solid #eee;
+	/* border: 1px solid #eee; */
 	border-radius: 100%;
 	text-align: center;
 	background: #7bc3d1;
+	transition: all 0.2s;
+}
+
+.timeline>li .timeline-image:hover {
+	transform: scale(1.1);
 }
 
 .timeline>li .timeline-image.timeline-image2 {
