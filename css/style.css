@@ -394,7 +394,7 @@ ol.type li a:hover {
 .hover-bg:hover .hover-text {
 	opacity: 1;
 }
-#portfolio i.fa {
+#pp i.fa {
 	font-size: 20px;
 	padding: 5px;
 	color: #E87E04;
@@ -786,4 +786,10 @@ header .intro-text {
 
 .new-grey {
 	color: #A9A9A9;
+}
+
+@media only screen and (max-width: 500px) {
+    .timeline>li .timeline-image h4 {
+        font-size: 10px;
+    }
 }
