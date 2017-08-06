@@ -24,29 +24,6 @@ $('#nav').affix({
       }
 });
 
-	// skills chart
-	/* $(document).ready(function(e) {
-	var windowBottom = $(window).height();
-	var index=0;
-	$(document).scroll(function(){
-		var top = $('#skills').height()-$(window).scrollTop();
-		console.log(top)
-		if(top<-300){
-			if(index==0){
-
-				$('.chart').easyPieChart({
-					easing: 'easeOutBounce',
-					onStep: function(from, to, percent) {
-						$(this.el).find('.percent').text(Math.round(percent));
-					}
-				});
-
-				}
-			index++;
-		}
-	})
-	//console.log(nagativeValue)
-}); */
 
 
   	// Portfolio isotope filter
@@ -78,15 +55,9 @@ $('#nav').affix({
     });
 
 
-    // CounterUp
-	/* $(document).ready(function( $ ) {
-		if($("span.count").length > 0){
-			$('span.count').counterUp({
-					delay: 10, // the delay time in ms
-			time: 1500 // the speed time in ms
-			});
-		}
-	}); */
+console.log("Hello! Thank you for visting my website.");
+console.log("I see that you are familiar with DevTools since you've opened up the console.")
+console.log("A trick I really like is using the shorthand $$() to return all elements that match the CSS selector.")
 
   	// Pretty Photo
 	$("a[rel^='prettyPhoto']").prettyPhoto({
