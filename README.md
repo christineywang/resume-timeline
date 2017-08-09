@@ -15,3 +15,5 @@ I really liked the color scheme of the image so most of my website is using thes
 For the fonts, I chose Courier New and Montserrat, my favorate old and new font combination.
 
 The emojis are from [here](https://afeld.github.io/emoji-css/).
+
+GitHub Page redirected to [here](http://christineywang.com/).
